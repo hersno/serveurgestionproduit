@@ -14,6 +14,7 @@ public class Produit {
 		this.ref = ref;
 		this.quantite = quantite;
 		this.prixUnitaire = prixUnitaire;
+		System.out.println("aa");
 	}
     
 	public String getRef() {
